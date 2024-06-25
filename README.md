@@ -79,6 +79,17 @@ TO ENTER THE FOLDER WHERE THE EXECUTABLE PROGRAM IS LOCATED, CLICK ON "MY WALLET
 ![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/c080a910-26a0-4fa1-bbdb-596dd19a0695)
 
 Then click on the "Src" folder and inside this other folder "executable program" click on those folders, and there is the executable program.exe
+![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/321b5c26-e94a-42f1-8884-e10012d77663)
+![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/c85a7f9e-3206-452c-b3f8-c8ef083256de)
+
+
+CONTACT:
+
+If you have any questions, you can contact me at the following number [0998786649].
+
+I hope you like our project "THANK YOU VERY MUCH"
+
+
 
 
 
