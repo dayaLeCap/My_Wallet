@@ -76,7 +76,8 @@ Getters: Methods to get the attribute values.
 Method addOperation: Adds a transaction to the table model.
 
 TO ENTER THE FOLDER WHERE THE EXECUTABLE PROGRAM IS LOCATED, CLICK ON "MY WALLET" AND IT IS THERE.
-![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/4ae98ba4-d8f9-49b2-b3dc-9b77b40223f8)
+![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/b04c8c3c-9031-414f-9144-a8e93036dbfe)
+
 
 Then click on the "Src" folder and inside this other folder "executable program" click on those folders, and there is the executable program.exe
 ![image](https://github.com/dayaLeCap/My_Wallet/assets/169932438/321b5c26-e94a-42f1-8884-e10012d77663)
